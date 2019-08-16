@@ -1,0 +1,875 @@
+#JSGF V1.0;
+
+grammar hots;
+
+<hero> = abathur |
+    alarak |
+    alexstrasza |
+    ana |
+    anduin |
+    a noob |
+    artanis |
+    arthas |
+    auriel |
+    azmodan |
+    blaze |
+    brightwing |
+    cassia |
+    chen |
+    cho |
+    chromie |
+    diva |
+    deckard |
+    dehaka |
+    diablo |
+    e.t.c |
+    falstad |
+    dragoon |
+    gall |
+    garrosh |
+    goblin |
+    genji |
+    greymane |
+    gooldan |
+    hanzo |
+    illidan |
+    imperius |
+    jaina |
+    johanna |
+    junkrat |
+    kaelthas |
+    kelthuzad |
+    kerrigan |
+    kharazim |
+    leoric |
+    li li |
+    li ming |
+    morales |
+    lucio |
+    lunara |
+    maiev |
+    malfurion |
+    malganis |
+    malthael |
+    medivh |
+    mephisto |
+    muradin |
+    murky |
+    nazeebo |
+    nova |
+    orphea |
+    probius |
+    qhira |
+    ragnaros |
+    raynor |
+    rehgar |
+    rexxar |
+    blade master |
+    hammer |
+    sonya |
+    stitches |
+    stukov |
+    sylvanas |
+    tassadar |
+    butcher |
+    vikings |
+    thrall |
+    tracer |
+    tychus |
+    tyrael |
+    tyrande |
+    oother |
+    rogue |
+    valla |
+    varian |
+    whitemane |
+    necro |
+    yrel |
+    sagara |
+    zarya |
+    zeratool |
+    zooljin;
+
+<ult> = ultimate evolution |
+    evolve monstrosity |
+    deadly charge |
+    counterstrike |
+    lifebinder |
+    cleansing flame |
+    nano boost |
+    eye of horus |
+    salvation |
+    lightbomb |
+    locust swarm |
+    cocoon |
+    suppression pulse |
+    purifier beam |
+    army of the dead |
+    summon sindragosa |
+    resurrect |
+    crystal aegis |
+    tide of sin |
+    demonic invasion |
+    bunker drop |
+    combustion |
+    blink heal |
+    emerald wind |
+    ball lightning |
+    valkyrie |
+    wandering keg |
+    storm earth fire |
+    hammer of twilight |
+    upheaval |
+    slowing sands |
+    temporal loop |
+    bunny hop |
+    big shot |
+    stay awhile and listen |
+    lorenado |
+    isolation |
+    adaptation |
+    apocalypse |
+    lightning breath |
+    mosh pit |
+    stage dive |
+    hinterland blast |
+    mighty gust |
+    purification salvo |
+    planet cracker |
+    shadow bolt volley |
+    twisting nether |
+    warlords challenge |
+    decimate |
+    robogoblin |
+    dragonblade |
+    xstrike |
+    go for the throat |
+    cursed bullet |
+    horrify |
+    rain of destruction |
+    dragonstrike |
+    dragons arrow |
+    metamorphosis |
+    the hunt |
+    angelic armaments |
+    wrath of the angiris |
+    ring of frost |
+    elemental |
+    falling sword |
+    blessed shield |
+    riptire |
+    rocket ride |
+    phoenix |
+    pyroblast |
+    frost blast |
+    shadow fissure |
+    maelstrom |
+    summon ultralisk |
+    divine palm |
+    sevensided strike |
+    entomb |
+    march of the black king |
+    jug |
+    water dragon |
+    disintegrate |
+    wave of force |
+    stim drone |
+    medivac dropship |
+    sound barrier |
+    high five |
+    thornwood vine |
+    leaping strike |
+    containment disc |
+    wardens cage |
+    tranquility |
+    twilight dream |
+    carrion swarm |
+    dark conversion |
+    tormented souls |
+    last rites |
+    poly bomb |
+    ley line seal |
+    consume souls |
+    durance of hate |
+    avatar |
+    haymaker |
+    march of the murlocs |
+    octograb |
+    gargantuan |
+    ravenous spirit |
+    triple tap |
+    precision strike |
+    eternal feast |
+    crushing jaws |
+    pylon overcharge |
+    null gate |
+    unrelenting strikes |
+    final strike |
+    sulfuras smash |
+    lava wave |
+    hyperion |
+    raynors raider |
+    ancestral healing |
+    bloodlust |
+    bestial wrath |
+    unleash the boars |
+    bladestorm |
+    illusion master |
+    blunt force gun |
+    napalm strike |
+    leap |
+    wrath of the berserker |
+    putrid bile |
+    gorge |
+    flailing swipe |
+    massive shove |
+    wailing arrow |
+    mind control |
+    archon |
+    force wall |
+    furnace blast |
+    lamb to the slaughter |
+    longboat raid |
+    play again |
+    sundering |
+    earthquake |
+    sticky bomb |
+    quantum spike |
+    odin |
+    laser |
+    judgment |
+    sanctification |
+    shadowstalk |
+    starfall |
+    divine shield |
+    divine storm |
+    smoke bomb |
+    cloak of shadows |
+    strafe |
+    rain of vengeance |
+    taunt |
+    colossus smash |
+    scarlet aegis |
+    divine reckoning |
+    poison nova |
+    skeletal mages |
+    ardent defender |
+    sacred ground |
+    devouring maw |
+    nydus network |
+    graviton surge |
+    expulsion zone |
+    might of the nerazim |
+    void prison |
+    tazdingo |
+    guillotine;
+
+<ability> = locust strain |
+    symbiote |
+    toxic nest |
+    deep tunnel |
+    calldown mule |
+    locust brood |
+    locust nest |
+    sadism trait |
+    discord strike |
+    telekinesis |
+    lightning surge |
+    rite of rakshir |
+    counterstrike |
+    deadly charge |
+    last laugh |
+    hasty bargain |
+    dragonqueen |
+    gift of life |
+    breath of life |
+    abundance |
+    preservation |
+    flame buffet |
+    wing buffet |
+    pacify |
+    life unbound |
+    blessing of the red |
+    shrike |
+    healing dart |
+    biotic grenade |
+    sleep dart |
+    debilitating dart |
+    active reload |
+    leap of faith |
+    flash heal |
+    divine star |
+    chastise |
+    inner focus |
+    lightwell |
+    desperate prayer |
+    scarab host |
+    impale |
+    harden carapace |
+    burrow charge |
+    a noob hardened shield |
+    a noob rewind |
+    shield overload |
+    blade dash |
+    twin blades |
+    phase prism |
+    frostmourne hungers |
+    death coil |
+    howling blast |
+    frozen tempest |
+    deaths advance |
+    antimagic shell |
+    bestow hope |
+    sacred sweep |
+    ray of heaven |
+    detainment strike |
+    angelic flight |
+    shield of hope |
+    demon lieutenant |
+    globe |
+    summon demon warrior |
+    all shall burn |
+    trample |
+    pyromania |
+    flame stream |
+    oil spill |
+    jet propulsion |
+    adrenaline stimpack |
+    endurance stimpack |
+    neural stimpack |
+    juggernaut plating |
+    soothing mist |
+    arcane flare |
+    polymorph |
+    pixie dust |
+    phase shift |
+    phase out |
+    faerie protector |
+    avoidance trait |
+    lightning fury |
+    blinding light |
+    fend |
+    charged strikes |
+    surge of light |
+    fortifying brew |
+    flying kick |
+    keg smash |
+    stagger |
+    elusive brawler |
+    ogre hide |
+    surging fist |
+    consuming blaze |
+    rune bomb |
+    timewalker |
+    sand blast |
+    dragons breath |
+    time trap |
+    timewalkers pursuit |
+    here and there |
+    time out |
+    quantum overdrive |
+    blessing of the bronze |
+    mech mode |
+    pilot mode |
+    boosters mech mode |
+    defense matrix mech mode |
+    selfdestruct |
+    call mech |
+    mechanized walker |
+    torpedo dash |
+    concussive pulse |
+    mekafall |
+    fortitude of the faithful |
+    healing potion |
+    horadric cube |
+    scroll of sealing |
+    sapphire |
+    ruby |
+    emerald |
+    ancient blessings |
+    essence collection |
+    drag |
+    dark swarm |
+    burrow |
+    brushstalker |
+    black soulstone |
+    shadow charge |
+    fire stomp |
+    overpower |
+    soul shield |
+    lord of terror |
+    hellgate |
+    rockstar |
+    powerslide |
+    face melt |
+    guitar solo |
+    e.t.c imposing presence |
+    e.t.c storm shield |
+    e.t.c bolt of the storm |
+    tailwind |
+    hammerang |
+    lightning rod |
+    barrel roll |
+    flight |
+    seasoned marksman |
+    shield capacitor |
+    plasma cutter |
+    weapon mode repeater cannon |
+    weapon mode phase bomb |
+    warp |
+    divert power weapons |
+    ogre rage |
+    shadowflame |
+    dread orb |
+    runic blast |
+    detonate twisting nether |
+    eye of kilrogg |
+    shove |
+    armor up |
+    groundbreaker |
+    bloodthirst |
+    wrecking ball |
+    body check |
+    indomitable |
+    into the fray |
+    double up |
+    salvager |
+    rockit turret |
+    focus turrets |
+    death laser |
+    xplodium charge |
+    its raining scrap |
+    cyber agility |
+    shuriken |
+    deflect |
+    swift strike |
+    curse of the worgen trait |
+    razor swipe |
+    gilnean cocktail |
+    inner beast |
+    disengage |
+    darkflight |
+    life tap |
+    fel flame |
+    drain life |
+    corruption |
+    consume soul |
+    healthstone |
+    demonic circle |
+    natural agility |
+    storm bow |
+    scatter arrow |
+    sonic arrow |
+    betrayers thirst |
+    dive |
+    sweeping strike |
+    evasion |
+    illidan bolt of the storm |
+    valorous brand |
+    celestial charge |
+    solarions fire |
+    molten armor |
+    holy fervor |
+    valorous pursuit |
+    impervious |
+    frostbite |
+    frostbolt |
+    blizzard |
+    cone of cold |
+    icy veins |
+    ice blink |
+    iron skin |
+    punish |
+    condemn |
+    shield glare |
+    laws of hope |
+    johanna imposing presence |
+    blinded by the light |
+    total mayhem |
+    frag launcher |
+    concussion mine |
+    steel trap |
+    junkrat jump |
+    spread volley |
+    verdant spheres |
+    flamestrike |
+    living bomb |
+    gravity lapse |
+    master of the cold dark |
+    death and decay |
+    frost nova |
+    chains of kelthuzad |
+    armor of the archlich |
+    shifting malice |
+    the damned return |
+    assimilation |
+    ravage |
+    impaling blades |
+    primal grasp |
+    chrysalis |
+    psionic shift |
+    pick your trait |
+    radiant dash |
+    breath of heaven |
+    deadly reach |
+    spirit ally |
+    earth ally |
+    air ally |
+    kharazim storm shield |
+    epiphany |
+    undying |
+    skeletal swing |
+    ghastly swing |
+    drain hope |
+    drain essence |
+    wraith walk |
+    ossein renewal |
+    shroud of the dead king |
+    fast feet |
+    healing brew |
+    cloud serpent |
+    blinding wind |
+    safety sprint |
+    lets go |
+    mistweaver |
+    critical mass |
+    magic missiles |
+    arcane orb |
+    teleport |
+    wave of force |
+    archon pure power |
+    caduceus reactor |
+    healing beam |
+    redirect healing beam |
+    safeguard |
+    displacement grenade |
+    push off |
+    soundwave |
+    crossfade |
+    amp it up |
+    wall ride |
+    boombox |
+    up to eleven |
+    summer anthem |
+    natures toxin |
+    noxious blossom |
+    crippling spores |
+    wisp |
+    relocate wisp |
+    dryads swiftness |
+    abolish magic |
+    galloping gait |
+    vault of the wardens |
+    fan of knives |
+    umbral bind |
+    spirit of vengeance |
+    innervate |
+    regrowth |
+    moonfire |
+    entangling roots |
+    natures cure |
+    vampiric touch |
+    fel claws |
+    necrotic embrace |
+    night rush |
+    blind as a bat |
+    reapers mark |
+    soul rip |
+    wraith strike |
+    death shroud |
+    fear the reaper |
+    touch of death |
+    inevitable end |
+    shroud of wisdom |
+    no one can stop death |
+    raven form |
+    arcane rift |
+    force of will |
+    portal |
+    dust of appearance |
+    arcane brilliance |
+    dust of disappearance |
+    lord of hatred |
+    skull missile |
+    lightning nova |
+    shade of mephisto |
+    animosity |
+    shade lord |
+    second wind |
+    storm bolt |
+    thunder clap |
+    dwarf toss |
+    muradin imposing presence |
+    stoneform |
+    muradin hardened shield |
+    muradin rewind |
+    spawn egg |
+    slime |
+    pufferfish |
+    safety bubble |
+    egg hunt |
+    voodoo ritual |
+    corpse spiders |
+    zombie wall |
+    plague of toads |
+    gargantuan stomp |
+    ice block |
+    soul harvest |
+    nova permanent cloak |
+    snipe |
+    pinning shot |
+    holo decoy |
+    ghost protocol |
+    nova rewind |
+    overflowing chaos |
+    shadow waltz |
+    chomp |
+    dread |
+    invasive miasma |
+    lurking terror |
+    final toccata |
+    warp in pylon |
+    disruption pulse |
+    warp rift |
+    photon cannon |
+    worker rush |
+    grappling hook trait |
+    carnage |
+    blood rage |
+    revolving sweep |
+    molten core |
+    empower sulfuras |
+    living meteor |
+    blast wave |
+    explosive rune |
+    resilient flame |
+    submerge |
+    give em some pepper |
+    penetrating round |
+    inspire |
+    adrenaline rush |
+    heavy slugs |
+    bounty hunter |
+    ghost wolf |
+    chain heal |
+    lightning shield |
+    earthbind totem |
+    ghost wolf activate |
+    healing totem |
+    farsight |
+    cleanse |
+    rehgar rewind |
+    rehgar storm shield |
+    misha focus |
+    spirit swoop |
+    misha charge |
+    mend pet |
+    flare |
+    primal intimidation |
+    feign death |
+    hardened skin |
+    image transmission |
+    mirror image |
+    critical strike |
+    wind walk |
+    siege mode |
+    spider mines |
+    concussive blast |
+    neosteel plating |
+    siege thrusters |
+    maelstrom rounds |
+    fury |
+    ancient spear |
+    seismic slam |
+    whirlwind |
+    shot of fury |
+    battle rage |
+    nerves of steel |
+    striding giant |
+    ignore pain |
+    vile gas |
+    hook |
+    helping hand |
+    slam |
+    devour |
+    blight |
+    hungry hungry stitches |
+    shambling horror |
+    biokill switch |
+    healing pathogen |
+    weighted pustule |
+    lurking arm |
+    black arrows |
+    withering fire |
+    shadow dagger |
+    haunting wave |
+    possession |
+    will of the forsaken |
+    sylvanas bolt of the storm |
+    oracle |
+    plasma shield |
+    psionic storm |
+    dimensional shift |
+    nullification |
+    shield battery |
+    fresh meat |
+    hamstring |
+    butchers brand |
+    ruthless onslaught |
+    enraged |
+    butcher bolt of the storm |
+    viking hoard |
+    select olaf |
+    select baelog |
+    select erik |
+    select all vikings |
+    longboat raid |
+    go go go |
+    spin to win |
+    norse force |
+    vikings jump |
+    nordic attack squad |
+    frostwolf resilience |
+    chain lightning |
+    feral spirit |
+    windfury |
+    ancestral wrath |
+    frostwolfs grace |
+    spirit shield |
+    wind rush |
+    reload |
+    tracer blink |
+    melee |
+    recall |
+    pulse bomb |
+    minigun |
+    overkill |
+    annihilate |
+    frag grenade |
+    ragnarok missiles |
+    run and gun |
+    thrusters |
+    neosteel coating |
+    archangels wrath |
+    eldruins might |
+    righteousness |
+    smite |
+    defense of the angels |
+    hunters mark |
+    light of elune |
+    sentinel |
+    lunar flare |
+    elunes chosen |
+    ranger |
+    trueshot aura |
+    devotion |
+    holy light |
+    flash of light |
+    holy radiance |
+    hammer of justice |
+    hand of protection |
+    benediction |
+    vanish |
+    sinister strike |
+    ambush |
+    blade flurry |
+    cheap shot |
+    eviscerate |
+    garrote |
+    crippling poison |
+    wound poison |
+    thistle tea |
+    hatred |
+    hungering arrow |
+    multishot |
+    vault |
+    gloom |
+    heroic strike |
+    lions fang |
+    parry |
+    charge |
+    twin blades of fury |
+    shattering throw |
+    banner of stormwind |
+    banner of ironforge |
+    banner of dalaran |
+    demoralizing shout |
+    zeal |
+    desperate plea |
+    inquisition |
+    searing lash |
+    fanatical power |
+    intercession |
+    purge the wicked |
+    raise skeleton |
+    bone armor |
+    spectral scythe |
+    cursed strikes |
+    bone prison |
+    bone spear |
+    divine purpose |
+    vindication |
+    righteous hammer |
+    avenging wrath |
+    hand of freedom |
+    bubble hearth |
+    seraphim |
+    creep tumor |
+    baneling barrage |
+    hunter killer |
+    infested drop |
+    envenomed spines |
+    energy |
+    particle grenade |
+    personal barrier |
+    shield ally |
+    pain is temporary |
+    unyielding defender |
+    zeratool permanent cloak |
+    cleave |
+    singularity spike |
+    zeratool blink |
+    might of the nerazim |
+    vorpal blade |
+    darkness descends |
+    berserker |
+    amani rage |
+    grievous throw |
+    twin cleave |
+    regeneration |
+    tazdingo |
+    headhunter |
+    voodoo shuffle |
+    ensnare;
+
+<map> = alterac pass |
+    battlefield of eternity |
+    blackheart's bay |
+    braxis holdout |
+    cursed hollow |
+    dragon shire |
+    garden of terror |
+    payload |
+    haunted mines |
+    infernal shrines |
+    sky temple |
+    tomb of the spider queen |
+    towers of doom |
+    volskaya foundry |
+    warhead junction;
+
+<gocmd> = go (<hero>|<ult>|<ability>);
+
+<pickcmd> = pick (<hero>|<ult>);
+
+<removecmd> = remove <hero>;
+
+<resetcmd> = reset (<hero>|<ult>|everything);
+
+<newgamecmd> = new game <map>;
+
+<timewarpcmd> = time warp;
+
+<cmd> = <gocmd> | <pickcmd> | <removecmd> | <resetcmd> | <newgamecmd> | <timewarpcmd>;
+
+public <cmds> = <cmd>+;

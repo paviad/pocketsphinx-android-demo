@@ -1,0 +1,1301 @@
+go a noob /1e-9/
+go a noob hardened shield /1e-25/
+go a noob rewind /1e-16/
+go abathur /1e-10/
+go abolish magic /1e-16/
+go abundance /1e-12/
+go active reload /1e-16/
+go adaptation /1e-13/
+go adrenaline rush /1e-18/
+go adrenaline stimpack /1e-22/
+go air ally /1e-11/
+go alarak /1e-9/
+go alexstrasza /1e-14/
+go all shall burn /1e-17/
+go amani rage /1e-13/
+go ambush /1e-9/
+go amp it up /1e-12/
+go ana /1e-6/
+go ancestral healing /1e-20/
+go ancestral wrath /1e-18/
+go ancient blessings /1e-20/
+go ancient spear /1e-16/
+go anduin /1e-9/
+go angelic armaments /1e-20/
+go angelic flight /1e-17/
+go animosity /1e-12/
+go annihilate /1e-13/
+go antimagic shell /1e-18/
+go apocalypse /1e-13/
+go arcane brilliance /1e-20/
+go arcane flare /1e-15/
+go arcane orb /1e-13/
+go arcane rift /1e-14/
+go archangels wrath /1e-19/
+go archon /1e-9/
+go archon pure power /1e-20/
+go ardent defender /1e-18/
+go armor of the archlich /1e-24/
+go armor up /1e-11/
+go army of the dead /1e-19/
+go artanis /1e-10/
+go arthas /1e-9/
+go assimilation /1e-15/
+go auriel /1e-9/
+go avatar /1e-9/
+go avenging wrath /1e-17/
+go avoidance trait /1e-18/
+go azmodan /1e-10/
+go ball lightning /1e-17/
+go baneling barrage /1e-19/
+go banner of dalaran /1e-20/
+go banner of ironforge /1e-22/
+go banner of stormwind /1e-22/
+go barrel roll /1e-14/
+go battle rage /1e-14/
+go benediction /1e-14/
+go berserker /1e-12/
+go bestial wrath /1e-16/
+go bestow hope /1e-14/
+go betrayers thirst /1e-19/
+go big shot /1e-11/
+go biokill switch /1e-17/
+go biotic grenade /1e-17/
+go black arrows /1e-15/
+go black soulstone /1e-18/
+go blade dash /1e-13/
+go blade flurry /1e-15/
+go blade master /1e-15/
+go bladestorm /1e-13/
+go blast wave /1e-13/
+go blaze /1e-8/
+go blessed shield /1e-17/
+go blessing of the bronze /1e-25/
+go blessing of the red /1e-22/
+go blight /1e-9/
+go blind as a bat /1e-17/
+go blinded by the light /1e-23/
+go blinding light /1e-17/
+go blinding wind /1e-16/
+go blink heal /1e-13/
+go blizzard /1e-11/
+go blood rage /1e-13/
+go bloodlust /1e-12/
+go bloodthirst /1e-14/
+go blunt force gun /1e-18/
+go body check /1e-13/
+go bone armor /1e-13/
+go bone prison /1e-14/
+go bone spear /1e-13/
+go boombox /1e-10/
+go boosters mech mode /1e-21/
+go bounty hunter /1e-16/
+go breath of heaven /1e-19/
+go breath of life /1e-17/
+go brightwing /1e-13/
+go brushstalker /1e-15/
+go bubble hearth /1e-16/
+go bunker  flamethrower /1e-23/
+go bunker drop /1e-14/
+go bunny hop /1e-12/
+go burrow /1e-9/
+go burrow charge /1e-16/
+go butcher /1e-10/
+go butcher bolt of the storm /1e-28/
+go butchers brand /1e-17/
+go caduceus reactor /1e-19/
+go call mech /1e-12/
+go calldown mule /1e-16/
+go carnage /1e-10/
+go carrion swarm /1e-16/
+go cassia /1e-9/
+go celestial charge /1e-19/
+go chain heal /1e-13/
+go chain lightning /1e-18/
+go chains of kelthuzad /1e-22/
+go charge /1e-9/
+go charged strikes /1e-18/
+go chastise /1e-11/
+go cheap shot /1e-13/
+go chen /1e-7/
+go cho /1e-6/
+go chomp /1e-8/
+go chromie /1e-10/
+go chrysalis /1e-12/
+go cleanse /1e-10/
+go cleansing flame /1e-18/
+go cleave /1e-9/
+go cloak of shadows /1e-19/
+go cloud serpent /1e-16/
+go cocoon /1e-9/
+go colossus smash /1e-17/
+go combustion /1e-13/
+go concussion mine /1e-18/
+go concussive blast /1e-19/
+go concussive pulse /1e-19/
+go condemn /1e-10/
+go cone of cold /1e-15/
+go consume soul /1e-15/
+go consume souls /1e-16/
+go consuming blaze /1e-18/
+go containment disc /1e-19/
+go corpse spiders /1e-17/
+go corruption /1e-13/
+go counterstrike /1e-16/
+go counterstrike /1e-16/
+go creep tumor /1e-14/
+go crippling poison /1e-19/
+go crippling spores /1e-19/
+go critical mass /1e-16/
+go critical strike /1e-18/
+go crossfade /1e-12/
+go crushing jaws /1e-16/
+go crystal aegis /1e-16/
+go curse of the worgen trait /1e-28/
+go cursed bullet /1e-16/
+go cursed strikes /1e-17/
+go cyber agility /1e-16/
+go dark conversion /1e-18/
+go dark swarm /1e-13/
+go darkflight /1e-13/
+go darkness descends /1e-20/
+go deadly charge /1e-16/
+go deadly charge /1e-16/
+go deadly reach /1e-15/
+go death and decay /1e-18/
+go death coil /1e-13/
+go death laser /1e-14/
+go death shroud /1e-15/
+go deaths advance /1e-17/
+go debilitating dart /1e-20/
+go decimate /1e-11/
+go deckard /1e-10/
+go deep tunnel /1e-14/
+go defense matrix mech mode /1e-27/
+go defense of the angels /1e-24/
+go deflect /1e-10/
+go dehaka /1e-9/
+go demon lieutenant /1e-19/
+go demonic circle /1e-17/
+go demonic invasion /1e-19/
+go demoralizing shout /1e-21/
+go desperate plea /1e-17/
+go desperate prayer /1e-19/
+go detainment strike /1e-20/
+go detonate twisting nether /1e-27/
+go devotion /1e-11/
+go devour /1e-9/
+go devouring maw /1e-16/
+go diablo /1e-9/
+go dimensional shift /1e-20/
+go discord strike /1e-17/
+go disengage /1e-12/
+go disintegrate /1e-15/
+go displacement grenade /1e-23/
+go disruption pulse /1e-19/
+go diva /1e-7/
+go dive /1e-7/
+go divert power weapons /1e-23/
+go divine palm /1e-14/
+go divine purpose /1e-17/
+go divine reckoning /1e-19/
+go divine shield /1e-16/
+go divine star /1e-14/
+go divine storm /1e-15/
+go double up /1e-12/
+go drag /1e-7/
+go dragonblade /1e-14/
+go dragonqueen /1e-14/
+go dragons arrow /1e-16/
+go dragons breath /1e-17/
+go dragonstrike /1e-15/
+go dragoon /1e-10/
+go drain essence /1e-16/
+go drain hope /1e-13/
+go drain life /1e-13/
+go dread /1e-8/
+go dread orb /1e-12/
+go dryads swiftness /1e-19/
+go durance of hate /1e-18/
+go dust of appearance /1e-21/
+go dust of disappearance /1e-24/
+go dwarf toss /1e-13/
+go e.t.c /1e-8/
+go e.t.c bolt of the storm /1e-26/
+go e.t.c imposing presence /1e-26/
+go e.t.c storm shield /1e-21/
+go earth ally /1e-13/
+go earthbind totem /1e-18/
+go earthquake /1e-13/
+go egg hunt /1e-11/
+go eldruins might /1e-17/
+go elemental /1e-12/
+go elunes chosen /1e-16/
+go elusive brawler /1e-18/
+go emerald /1e-10/
+go emerald wind /1e-15/
+go empower sulfuras /1e-19/
+go endurance stimpack /1e-21/
+go energy /1e-9/
+go enraged /1e-10/
+go ensnare /1e-10/
+go entangling roots /1e-19/
+go entomb /1e-9/
+go envenomed spines /1e-19/
+go epiphany /1e-11/
+go essence collection /1e-21/
+go eternal feast /1e-16/
+go evasion /1e-10/
+go eviscerate /1e-13/
+go evolve monstrosity /1e-21/
+go explosive rune /1e-17/
+go expulsion zone /1e-17/
+go eye of horus /1e-15/
+go eye of horus  high powered round /1e-35/
+go eye of kilrogg /1e-17/
+go face melt /1e-12/
+go faerie protector /1e-19/
+go falling sword /1e-16/
+go falstad /1e-10/
+go fan of knives /1e-16/
+go fanatical power /1e-18/
+go farsight /1e-11/
+go fast feet /1e-12/
+go fear the reaper /1e-18/
+go feign death /1e-14/
+go fel claws /1e-12/
+go fel flame /1e-12/
+go fend /1e-7/
+go feral spirit /1e-15/
+go final strike /1e-15/
+go final toccata /1e-16/
+go fire stomp /1e-13/
+go flailing swipe /1e-17/
+go flame buffet /1e-15/
+go flame stream /1e-15/
+go flamestrike /1e-14/
+go flare /1e-8/
+go flash heal /1e-13/
+go flash of light /1e-17/
+go flight /1e-9/
+go flying kick /1e-14/
+go focus turrets /1e-16/
+go force of will /1e-16/
+go force wall /1e-13/
+go fortifying brew /1e-18/
+go fortitude of the faithful /1e-28/
+go frag grenade /1e-15/
+go frag launcher /1e-16/
+go fresh meat /1e-13/
+go frost blast /1e-14/
+go frost nova /1e-13/
+go frostbite /1e-12/
+go frostbolt /1e-12/
+go frostmourne hungers /1e-22/
+go frostwolf resilience /1e-23/
+go frostwolfs grace /1e-19/
+go frozen tempest /1e-17/
+go furnace blast /1e-16/
+go fury /1e-7/
+go gall /1e-7/
+go galloping gait /1e-17/
+go gargantuan /1e-13/
+go gargantuan stomp /1e-19/
+go garrosh /1e-10/
+go garrote /1e-10/
+go genji /1e-8/
+go ghastly swing /1e-16/
+go ghost protocol /1e-17/
+go ghost wolf /1e-13/
+go ghost wolf activate /1e-22/
+go gift of life /1e-15/
+go gilnean cocktail /1e-19/
+go give em some pepper /1e-22/
+go globe /1e-8/
+go gloom /1e-8/
+go go for the throat /1e-20/
+go go go go /1e-11/
+go goblin /1e-9/
+go gooldan /1e-10/
+go gorge /1e-8/
+go grappling hook trait /1e-23/
+go graviton surge /1e-17/
+go gravity lapse /1e-16/
+go gravobomb 3000 /1e-17/
+go greymane /1e-11/
+go grievous throw /1e-17/
+go groundbreaker /1e-16/
+go guillotine /1e-13/
+go guitar solo /1e-14/
+go hammer /1e-9/
+go hammer of justice /1e-20/
+go hammer of twilight /1e-21/
+go hammerang /1e-12/
+go hamstring /1e-12/
+go hand of freedom /1e-18/
+go hand of protection /1e-21/
+go hanzo /1e-8/
+go harden carapace /1e-18/
+go hardened skin /1e-16/
+go hasty bargain /1e-16/
+go hatred /1e-9/
+go haunting wave /1e-16/
+go haymaker /1e-11/
+go headhunter /1e-13/
+go healing beam /1e-15/
+go healing brew /1e-15/
+go healing dart /1e-15/
+go healing pathogen /1e-19/
+go healing potion /1e-17/
+go healing totem /1e-16/
+go healthstone /1e-14/
+go heavy slugs /1e-14/
+go hellgate /1e-11/
+go helping hand /1e-15/
+go here and there /1e-17/
+go heroic strike /1e-16/
+go high five /1e-12/
+go hinterland blast /1e-19/
+go holo decoy /1e-13/
+go holy fervor /1e-14/
+go holy light /1e-13/
+go holy radiance /1e-16/
+go hook /1e-7/
+go horadric cube /1e-16/
+go horrify /1e-10/
+go howling blast /1e-16/
+go hungering arrow /1e-18/
+go hungry hungry stitches /1e-25/
+go hunter killer /1e-16/
+go hunters mark /1e-15/
+go hyperion /1e-11/
+go ice blink /1e-12/
+go ice block /1e-12/
+go icy veins /1e-12/
+go ignore pain /1e-14/
+go illidan /1e-10/
+go illidan bolt of the storm /1e-28/
+go illusion master /1e-18/
+go image transmission /1e-21/
+go impale /1e-9/
+go impaling blades /1e-18/
+go imperius /1e-11/
+go impervious /1e-13/
+go indomitable /1e-14/
+go inevitable end /1e-17/
+go infested drop /1e-16/
+go inner beast /1e-14/
+go inner focus /1e-14/
+go innervate /1e-12/
+go inquisition /1e-14/
+go inspire /1e-10/
+go intercession /1e-15/
+go into the fray /1e-16/
+go invasive miasma /1e-18/
+go iron skin /1e-12/
+go isolation /1e-12/
+go its raining scrap /1e-20/
+go jaina /1e-8/
+go jet propulsion /1e-17/
+go johanna /1e-10/
+go johanna imposing presence /1e-28/
+go judgment /1e-11/
+go jug /1e-6/
+go juggernaut plating /1e-21/
+go junkrat /1e-10/
+go junkrat jump /1e-15/
+go kaelthas /1e-11/
+go keg smash /1e-12/
+go keg smash  breath of fire /1e-28/
+go kelthuzad /1e-12/
+go kerrigan /1e-11/
+go kharazim /1e-11/
+go kharazim storm shield /1e-24/
+go lamb to the slaughter /1e-24/
+go laser /1e-8/
+go last laugh /1e-13/
+go last rites /1e-13/
+go lava wave /1e-12/
+go laws of hope /1e-15/
+go leap /1e-7/
+go leap of faith /1e-16/
+go leaping strike /1e-17/
+go leoric /1e-9/
+go lets go /1e-10/
+go ley line seal /1e-16/
+go li li /1e-8/
+go li ming /1e-10/
+go life tap /1e-11/
+go life unbound /1e-15/
+go lifebinder /1e-13/
+go light of elune /1e-17/
+go lightbomb /1e-12/
+go lightning breath /1e-19/
+go lightning fury /1e-17/
+go lightning nova /1e-17/
+go lightning rod /1e-16/
+go lightning shield /1e-19/
+go lightning surge /1e-18/
+go lightwell /1e-12/
+go lions fang /1e-13/
+go living bomb /1e-14/
+go living meteor /1e-16/
+go locust brood /1e-15/
+go locust nest /1e-14/
+go locust strain /1e-16/
+go locust swarm /1e-15/
+go longboat raid /1e-16/
+go longboat raid /1e-16/
+go lord of hatred /1e-17/
+go lord of terror /1e-17/
+go lorenado /1e-11/
+go lucio /1e-8/
+go lunar flare /1e-14/
+go lunara /1e-9/
+go lurking arm /1e-14/
+go lurking terror /1e-17/
+go maelstrom /1e-12/
+go maelstrom rounds /1e-19/
+go magic missiles /1e-17/
+go maiev /1e-8/
+go malfurion /1e-12/
+go malganis /1e-11/
+go malthael /1e-11/
+go march of the black king /1e-26/
+go march of the murlocs /1e-23/
+go massive shove /1e-16/
+go master of the cold dark /1e-26/
+go mech mode /1e-12/
+go mechanized walker /1e-20/
+go medivac dropship /1e-19/
+go medivh /1e-9/
+go mekafall /1e-11/
+go melee /1e-8/
+go mend pet /1e-11/
+go mephisto /1e-11/
+go metamorphosis /1e-16/
+go might of the nerazim /1e-23/
+go might of the nerazim /1e-23/
+go mighty gust /1e-14/
+go mind control /1e-15/
+go minigun /1e-10/
+go mirror image /1e-15/
+go misha charge /1e-15/
+go misha focus /1e-14/
+go mistweaver /1e-13/
+go molten armor /1e-15/
+go molten core /1e-14/
+go molten core  meteor shower /1e-29/
+go molten core  molten swing /1e-28/
+go moonfire /1e-11/
+go morales /1e-10/
+go mosh pit /1e-11/
+go multishot /1e-12/
+go muradin /1e-10/
+go muradin hardened shield /1e-26/
+go muradin imposing presence /1e-28/
+go muradin rewind /1e-17/
+go murky /1e-8/
+go nano boost /1e-13/
+go napalm strike /1e-16/
+go natural agility /1e-18/
+go natures cure /1e-15/
+go natures toxin /1e-16/
+go nazeebo /1e-10/
+go necro /1e-8/
+go necrotic embrace /1e-19/
+go neosteel coating /1e-19/
+go neosteel plating /1e-19/
+go nerves of steel /1e-18/
+go neural stimpack /1e-18/
+go night rush /1e-13/
+go no one can stop death /1e-24/
+go nordic attack squad /1e-22/
+go norse force /1e-14/
+go nova /1e-7/
+go nova permanent cloak /1e-23/
+go nova rewind /1e-14/
+go noxious blossom /1e-18/
+go null gate /1e-12/
+go nullification /1e-16/
+go nydus network /1e-16/
+go octograb /1e-11/
+go odin /1e-7/
+go ogre hide /1e-12/
+go ogre rage /1e-12/
+go oil spill /1e-12/
+go oother /1e-9/
+go oracle /1e-9/
+go orphea /1e-9/
+go ossein renewal /1e-17/
+go overflowing chaos /1e-20/
+go overkill /1e-11/
+go overpower /1e-12/
+go pacify /1e-9/
+go pain is temporary /1e-20/
+go parry /1e-8/
+go particle grenade /1e-19/
+go penetrating round /1e-20/
+go personal barrier /1e-19/
+go phase out /1e-12/
+go phase prism /1e-14/
+go phase shift /1e-14/
+go phoenix /1e-10/
+go photon cannon /1e-16/
+go pick your trait /1e-18/
+go pilot mode /1e-13/
+go pinning shot /1e-15/
+go pixie dust /1e-13/
+go plague of toads /1e-18/
+go planet cracker /1e-17/
+go plasma cutter /1e-16/
+go plasma shield /1e-16/
+go play again /1e-13/
+go poison nova /1e-14/
+go poly bomb /1e-12/
+go polymorph /1e-12/
+go portal /1e-9/
+go possession /1e-13/
+go powerslide /1e-13/
+go precision strike /1e-19/
+go preservation /1e-15/
+go primal grasp /1e-15/
+go primal intimidation /1e-22/
+go probius /1e-10/
+go psionic shift /1e-16/
+go psionic storm /1e-16/
+go pufferfish /1e-13/
+go pulse bomb /1e-13/
+go punish /1e-9/
+go purge the wicked /1e-19/
+go purification salvo /1e-21/
+go purifier beam /1e-16/
+go push off /1e-11/
+go putrid bile /1e-14/
+go pylon overcharge /1e-19/
+go pyroblast /1e-12/
+go pyromania /1e-12/
+go qhira /1e-8/
+go quantum overdrive /1e-20/
+go quantum spike /1e-16/
+go radiant dash /1e-15/
+go ragnarok missiles /1e-20/
+go ragnaros /1e-11/
+go rain of destruction /1e-22/
+go rain of vengeance /1e-20/
+go raise skeleton /1e-17/
+go ranger /1e-9/
+go ravage /1e-9/
+go raven form /1e-13/
+go ravenous spirit /1e-18/
+go ray of heaven /1e-16/
+go raynor /1e-9/
+go raynors raider /1e-17/
+go razor swipe /1e-14/
+go reapers mark /1e-15/
+go recall /1e-9/
+go redirect healing beam /1e-24/
+go regeneration /1e-15/
+go regrowth /1e-11/
+go rehgar /1e-9/
+go rehgar rewind /1e-16/
+go rehgar storm shield /1e-22/
+go reload /1e-9/
+go relocate wisp /1e-16/
+go resilient flame /1e-18/
+go resurrect /1e-12/
+go revolving sweep /1e-18/
+go rexxar /1e-9/
+go righteous hammer /1e-19/
+go righteousness /1e-16/
+go ring of frost /1e-16/
+go riptire /1e-10/
+go rite of rakshir /1e-18/
+go robogoblin /1e-13/
+go rocket ride /1e-14/
+go rockit turret /1e-16/
+go rockstar /1e-11/
+go rogue /1e-8/
+go ruby /1e-7/
+go run and gun /1e-14/
+go rune bomb /1e-12/
+go runic blast /1e-14/
+go ruthless onslaught /1e-21/
+go sacred ground /1e-16/
+go sacred sweep /1e-15/
+go sadism trait /1e-15/
+go safeguard /1e-12/
+go safety bubble /1e-16/
+go safety sprint /1e-16/
+go sagara /1e-9/
+go salvager /1e-11/
+go salvation /1e-12/
+go sanctification /1e-17/
+go sand blast /1e-13/
+go sapphire /1e-11/
+go scarab host /1e-14/
+go scarlet aegis /1e-16/
+go scatter arrow /1e-16/
+go scroll of sealing /1e-20/
+go searing lash /1e-15/
+go seasoned marksman /1e-20/
+go second wind /1e-14/
+go seismic slam /1e-15/
+go select all vikings /1e-21/
+go select baelog /1e-16/
+go select erik /1e-14/
+go select olaf /1e-14/
+go selfdestruct /1e-15/
+go sentinel /1e-11/
+go seraphim /1e-11/
+go sevensided strike /1e-20/
+go shade lord /1e-13/
+go shade of mephisto /1e-20/
+go shadow bolt volley /1e-21/
+go shadow charge /1e-16/
+go shadow dagger /1e-16/
+go shadow fissure /1e-17/
+go shadow waltz /1e-15/
+go shadowflame /1e-14/
+go shadowstalk /1e-14/
+go shambling horror /1e-19/
+go shattering throw /1e-19/
+go shield ally /1e-14/
+go shield battery /1e-17/
+go shield capacitor /1e-19/
+go shield glare /1e-15/
+go shield of hope /1e-17/
+go shield overload /1e-18/
+go shifting malice /1e-18/
+go shot of fury /1e-15/
+go shove /1e-8/
+go shrike /1e-9/
+go shroud of the dead king /1e-26/
+go shroud of wisdom /1e-19/
+go shuriken /1e-11/
+go siege mode /1e-13/
+go siege thrusters /1e-18/
+go singularity spike /1e-20/
+go sinister strike /1e-18/
+go skeletal mages /1e-17/
+go skeletal swing /1e-17/
+go skull missile /1e-16/
+go slam /1e-7/
+go sleep dart /1e-13/
+go slime /1e-8/
+go slowing sands /1e-16/
+go smite /1e-8/
+go smoke bomb /1e-13/
+go snipe /1e-8/
+go solarions fire /1e-17/
+go sonic arrow /1e-14/
+go sonya /1e-8/
+go soothing mist /1e-16/
+go soul harvest /1e-15/
+go soul rip /1e-11/
+go soul shield /1e-14/
+go sound barrier /1e-16/
+go soundwave /1e-12/
+go spawn egg /1e-12/
+go spectral scythe /1e-18/
+go spider mines /1e-15/
+go spin to win /1e-14/
+go spirit ally /1e-14/
+go spirit of vengeance /1e-22/
+go spirit shield /1e-16/
+go spirit swoop /1e-15/
+go spread volley /1e-16/
+go stage dive /1e-13/
+go stagger /1e-10/
+go starfall /1e-11/
+go stay awhile and listen /1e-25/
+go steel trap /1e-13/
+go sticky bomb /1e-14/
+go stim drone /1e-13/
+go stitches /1e-11/
+go stoneform /1e-12/
+go storm bolt /1e-13/
+go storm bow /1e-12/
+go storm earth fire /1e-19/
+go storm earth fire  earth /1e-26/
+go storm earth fire  fire /1e-25/
+go storm earth fire  storm /1e-26/
+go strafe /1e-9/
+go striding giant /1e-17/
+go stukov /1e-9/
+go submerge /1e-11/
+go sulfuras smash /1e-17/
+go summer anthem /1e-16/
+go summon demon warrior /1e-23/
+go summon sindragosa /1e-20/
+go summon ultralisk /1e-19/
+go sundering /1e-12/
+go suppression pulse /1e-20/
+go surge of light /1e-17/
+go surging fist /1e-15/
+go sweeping strike /1e-18/
+go swift strike /1e-15/
+go sylvanas /1e-11/
+go sylvanas bolt of the storm /1e-29/
+go symbiote /1e-11/
+go symbiote  carapace /1e-21/
+go symbiote  spike burst /1e-24/
+go symbiote  stab /1e-17/
+go tailwind /1e-11/
+go tassadar /1e-11/
+go taunt /1e-8/
+go tazdingo /1e-11/
+go tazdingo /1e-11/
+go telekinesis /1e-14/
+go teleport /1e-11/
+go temporal loop /1e-16/
+go the damned return /1e-20/
+go the hunt /1e-11/
+go thistle tea /1e-14/
+go thornwood vine /1e-17/
+go thrall /1e-9/
+go thrusters /1e-12/
+go thunder clap /1e-15/
+go tide of sin /1e-14/
+go time out /1e-11/
+go time trap /1e-12/
+go timewalker /1e-13/
+go timewalkers pursuit /1e-22/
+go tormented souls /1e-18/
+go torpedo dash /1e-15/
+go total mayhem /1e-15/
+go touch of death /1e-17/
+go toxic nest /1e-13/
+go tracer /1e-9/
+go tracer blink /1e-15/
+go trample /1e-10/
+go tranquility /1e-14/
+go triple tap /1e-13/
+go trueshot aura /1e-16/
+go twilight dream /1e-17/
+go twin blades /1e-14/
+go twin blades of fury /1e-22/
+go twin cleave /1e-14/
+go twisting nether /1e-18/
+go tychus /1e-9/
+go tyrael /1e-9/
+go tyrande /1e-10/
+go ultimate evolution /1e-21/
+go umbral bind /1e-14/
+go undying /1e-10/
+go unleash the boars /1e-20/
+go unrelenting strikes /1e-22/
+go unyielding defender /1e-22/
+go up to eleven /1e-15/
+go upheaval /1e-11/
+go valkyrie /1e-11/
+go valla /1e-8/
+go valorous brand /1e-17/
+go valorous pursuit /1e-19/
+go vampiric touch /1e-17/
+go vanish /1e-9/
+go varian /1e-9/
+go vault /1e-8/
+go vault of the wardens /1e-23/
+go verdant spheres /1e-18/
+go viking hoard /1e-15/
+go vikings /1e-10/
+go vikings jump /1e-15/
+go vile gas /1e-11/
+go vindication /1e-14/
+go void prison /1e-14/
+go voodoo ritual /1e-16/
+go voodoo shuffle /1e-17/
+go vorpal blade /1e-15/
+go wailing arrow /1e-16/
+go wall ride /1e-12/
+go wandering keg /1e-16/
+go wardens cage /1e-15/
+go warlords challenge /1e-21/
+go warp /1e-7/
+go warp in pylon /1e-16/
+go warp rift /1e-12/
+go water dragon /1e-15/
+go wave of force /1e-16/
+go wave of force /1e-16/
+go weapon mode phase bomb /1e-25/
+go weapon mode repeater cannon /1e-30/
+go weighted pustule /1e-19/
+go whirlwind /1e-12/
+go whitemane /1e-12/
+go will of the forsaken /1e-23/
+go wind rush /1e-12/
+go wind walk /1e-12/
+go windfury /1e-11/
+go wing buffet /1e-14/
+go wisp /1e-7/
+go withering fire /1e-17/
+go worker rush /1e-14/
+go wound poison /1e-15/
+go wraith strike /1e-16/
+go wraith walk /1e-14/
+go wrath of the angiris /1e-23/
+go wrath of the berserker /1e-25/
+go wrecking ball /1e-16/
+go xplodium charge /1e-18/
+go xstrike /1e-10/
+go yrel /1e-7/
+go zarya /1e-8/
+go zeal /1e-7/
+go zeratool /1e-11/
+go zeratool blink /1e-17/
+go zeratool permanent cloak /1e-27/
+go zombie wall /1e-14/
+go zooljin /1e-10/
+new game alterac pass /1e-21/
+new game battlefield of eternity /1e-32/
+new game blackheart's bay /1e-25/
+new game braxis holdout /1e-23/
+new game cursed hollow /1e-22/
+new game dragon shire /1e-21/
+new game garden of terror /1e-25/
+new game haunted mines /1e-22/
+new game infernal shrines /1e-25/
+new game payload /1e-16/
+new game sky temple /1e-19/
+new game tomb of the spider queen /1e-33/
+new game towers of doom /1e-23/
+new game volskaya foundry /1e-25/
+new game warhead junction /1e-25/
+pick a noob /1e-11/
+pick abathur /1e-12/
+pick adaptation /1e-15/
+pick alarak /1e-11/
+pick alexstrasza /1e-16/
+pick ana /1e-8/
+pick ancestral healing /1e-22/
+pick anduin /1e-11/
+pick angelic armaments /1e-22/
+pick apocalypse /1e-15/
+pick archon /1e-11/
+pick ardent defender /1e-20/
+pick army of the dead /1e-21/
+pick artanis /1e-12/
+pick arthas /1e-11/
+pick auriel /1e-11/
+pick avatar /1e-11/
+pick azmodan /1e-12/
+pick ball lightning /1e-19/
+pick bestial wrath /1e-18/
+pick big shot /1e-13/
+pick blade master /1e-17/
+pick bladestorm /1e-15/
+pick blaze /1e-10/
+pick blessed shield /1e-19/
+pick blink heal /1e-15/
+pick bloodlust /1e-14/
+pick blunt force gun /1e-20/
+pick brightwing /1e-15/
+pick bunker drop /1e-16/
+pick bunny hop /1e-14/
+pick butcher /1e-12/
+pick carrion swarm /1e-18/
+pick cassia /1e-11/
+pick chen /1e-9/
+pick cho /1e-8/
+pick chromie /1e-12/
+pick cleansing flame /1e-20/
+pick cloak of shadows /1e-21/
+pick cocoon /1e-11/
+pick colossus smash /1e-19/
+pick combustion /1e-15/
+pick consume souls /1e-18/
+pick containment disc /1e-21/
+pick counterstrike /1e-18/
+pick crushing jaws /1e-18/
+pick crystal aegis /1e-18/
+pick cursed bullet /1e-18/
+pick dark conversion /1e-20/
+pick deadly charge /1e-18/
+pick decimate /1e-13/
+pick deckard /1e-12/
+pick dehaka /1e-11/
+pick demonic invasion /1e-21/
+pick devouring maw /1e-18/
+pick diablo /1e-11/
+pick disintegrate /1e-17/
+pick diva /1e-9/
+pick divine palm /1e-16/
+pick divine reckoning /1e-21/
+pick divine shield /1e-18/
+pick divine storm /1e-17/
+pick dragonblade /1e-16/
+pick dragons arrow /1e-18/
+pick dragonstrike /1e-17/
+pick dragoon /1e-12/
+pick durance of hate /1e-20/
+pick e.t.c /1e-10/
+pick earthquake /1e-15/
+pick elemental /1e-14/
+pick emerald wind /1e-17/
+pick entomb /1e-11/
+pick eternal feast /1e-18/
+pick evolve monstrosity /1e-23/
+pick expulsion zone /1e-19/
+pick eye of horus /1e-17/
+pick falling sword /1e-18/
+pick falstad /1e-12/
+pick final strike /1e-17/
+pick flailing swipe /1e-19/
+pick force wall /1e-15/
+pick frost blast /1e-16/
+pick furnace blast /1e-18/
+pick gall /1e-9/
+pick gargantuan /1e-15/
+pick garrosh /1e-12/
+pick genji /1e-10/
+pick go for the throat /1e-22/
+pick goblin /1e-11/
+pick gooldan /1e-12/
+pick gorge /1e-10/
+pick graviton surge /1e-19/
+pick gravobomb 3000 /1e-19/
+pick greymane /1e-13/
+pick guillotine /1e-15/
+pick hammer /1e-11/
+pick hammer of twilight /1e-23/
+pick hanzo /1e-10/
+pick haymaker /1e-13/
+pick high five /1e-14/
+pick hinterland blast /1e-21/
+pick horrify /1e-12/
+pick hyperion /1e-13/
+pick illidan /1e-12/
+pick illusion master /1e-20/
+pick imperius /1e-13/
+pick isolation /1e-14/
+pick jaina /1e-10/
+pick johanna /1e-12/
+pick judgment /1e-13/
+pick jug /1e-8/
+pick junkrat /1e-12/
+pick kaelthas /1e-13/
+pick kelthuzad /1e-14/
+pick kerrigan /1e-13/
+pick kharazim /1e-13/
+pick lamb to the slaughter /1e-26/
+pick laser /1e-10/
+pick last rites /1e-15/
+pick lava wave /1e-14/
+pick leap /1e-9/
+pick leaping strike /1e-19/
+pick leoric /1e-11/
+pick ley line seal /1e-18/
+pick li li /1e-10/
+pick li ming /1e-12/
+pick lifebinder /1e-15/
+pick lightbomb /1e-14/
+pick lightning breath /1e-21/
+pick locust swarm /1e-17/
+pick longboat raid /1e-18/
+pick lorenado /1e-13/
+pick lucio /1e-10/
+pick lunara /1e-11/
+pick maelstrom /1e-14/
+pick maiev /1e-10/
+pick malfurion /1e-14/
+pick malganis /1e-13/
+pick malthael /1e-13/
+pick march of the black king /1e-28/
+pick march of the murlocs /1e-25/
+pick massive shove /1e-18/
+pick medivac dropship /1e-21/
+pick medivh /1e-11/
+pick mephisto /1e-13/
+pick metamorphosis /1e-18/
+pick might of the nerazim /1e-25/
+pick mighty gust /1e-16/
+pick mind control /1e-17/
+pick morales /1e-12/
+pick mosh pit /1e-13/
+pick muradin /1e-12/
+pick murky /1e-10/
+pick nano boost /1e-15/
+pick napalm strike /1e-18/
+pick nazeebo /1e-12/
+pick necro /1e-10/
+pick nova /1e-9/
+pick null gate /1e-14/
+pick nydus network /1e-18/
+pick octograb /1e-13/
+pick odin /1e-9/
+pick oother /1e-11/
+pick orphea /1e-11/
+pick phoenix /1e-12/
+pick planet cracker /1e-19/
+pick play again /1e-15/
+pick poison nova /1e-16/
+pick poly bomb /1e-14/
+pick precision strike /1e-21/
+pick probius /1e-12/
+pick purification salvo /1e-23/
+pick purifier beam /1e-18/
+pick putrid bile /1e-16/
+pick pylon overcharge /1e-21/
+pick pyroblast /1e-14/
+pick qhira /1e-10/
+pick quantum spike /1e-18/
+pick ragnaros /1e-13/
+pick rain of destruction /1e-24/
+pick rain of vengeance /1e-22/
+pick ravenous spirit /1e-20/
+pick raynor /1e-11/
+pick raynors raider /1e-19/
+pick rehgar /1e-11/
+pick resurrect /1e-14/
+pick rexxar /1e-11/
+pick ring of frost /1e-18/
+pick riptire /1e-12/
+pick robogoblin /1e-15/
+pick rocket ride /1e-16/
+pick rogue /1e-10/
+pick sacred ground /1e-18/
+pick sagara /1e-11/
+pick salvation /1e-14/
+pick sanctification /1e-19/
+pick scarlet aegis /1e-18/
+pick sevensided strike /1e-22/
+pick shadow bolt volley /1e-23/
+pick shadow fissure /1e-19/
+pick shadowstalk /1e-16/
+pick skeletal mages /1e-19/
+pick slowing sands /1e-18/
+pick smoke bomb /1e-15/
+pick sonya /1e-10/
+pick sound barrier /1e-18/
+pick stage dive /1e-15/
+pick starfall /1e-13/
+pick stay awhile and listen /1e-27/
+pick sticky bomb /1e-16/
+pick stim drone /1e-15/
+pick stitches /1e-13/
+pick storm earth fire /1e-21/
+pick strafe /1e-11/
+pick stukov /1e-11/
+pick sulfuras smash /1e-19/
+pick summon sindragosa /1e-22/
+pick summon ultralisk /1e-21/
+pick sundering /1e-14/
+pick suppression pulse /1e-22/
+pick sylvanas /1e-13/
+pick tassadar /1e-13/
+pick taunt /1e-10/
+pick tazdingo /1e-13/
+pick temporal loop /1e-18/
+pick the hunt /1e-13/
+pick thornwood vine /1e-19/
+pick thrall /1e-11/
+pick tide of sin /1e-16/
+pick tormented souls /1e-20/
+pick tracer /1e-11/
+pick tranquility /1e-16/
+pick triple tap /1e-15/
+pick twilight dream /1e-19/
+pick twisting nether /1e-20/
+pick tychus /1e-11/
+pick tyrael /1e-11/
+pick tyrande /1e-12/
+pick ultimate evolution /1e-23/
+pick unleash the boars /1e-22/
+pick unrelenting strikes /1e-24/
+pick upheaval /1e-13/
+pick valkyrie /1e-13/
+pick valla /1e-10/
+pick varian /1e-11/
+pick vikings /1e-12/
+pick void prison /1e-16/
+pick wailing arrow /1e-18/
+pick wandering keg /1e-18/
+pick wardens cage /1e-17/
+pick warlords challenge /1e-23/
+pick water dragon /1e-17/
+pick wave of force /1e-18/
+pick whitemane /1e-14/
+pick wrath of the angiris /1e-25/
+pick wrath of the berserker /1e-27/
+pick xstrike /1e-12/
+pick yrel /1e-9/
+pick zarya /1e-10/
+pick zeratool /1e-13/
+pick zooljin /1e-12/
+remove a noob /1e-13/
+remove abathur /1e-14/
+remove alarak /1e-13/
+remove alexstrasza /1e-18/
+remove ana /1e-10/
+remove anduin /1e-13/
+remove artanis /1e-14/
+remove arthas /1e-13/
+remove auriel /1e-13/
+remove azmodan /1e-14/
+remove blade master /1e-19/
+remove blaze /1e-12/
+remove brightwing /1e-17/
+remove butcher /1e-14/
+remove cassia /1e-13/
+remove chen /1e-11/
+remove cho /1e-10/
+remove chromie /1e-14/
+remove deckard /1e-14/
+remove dehaka /1e-13/
+remove diablo /1e-13/
+remove diva /1e-11/
+remove dragoon /1e-14/
+remove e.t.c /1e-12/
+remove falstad /1e-14/
+remove gall /1e-11/
+remove garrosh /1e-14/
+remove genji /1e-12/
+remove goblin /1e-13/
+remove gooldan /1e-14/
+remove greymane /1e-15/
+remove hammer /1e-13/
+remove hanzo /1e-12/
+remove illidan /1e-14/
+remove imperius /1e-15/
+remove jaina /1e-12/
+remove johanna /1e-14/
+remove junkrat /1e-14/
+remove kaelthas /1e-15/
+remove kelthuzad /1e-16/
+remove kerrigan /1e-15/
+remove kharazim /1e-15/
+remove leoric /1e-13/
+remove li li /1e-12/
+remove li ming /1e-14/
+remove lucio /1e-12/
+remove lunara /1e-13/
+remove maiev /1e-12/
+remove malfurion /1e-16/
+remove malganis /1e-15/
+remove malthael /1e-15/
+remove medivh /1e-13/
+remove mephisto /1e-15/
+remove morales /1e-14/
+remove muradin /1e-14/
+remove murky /1e-12/
+remove nazeebo /1e-14/
+remove necro /1e-12/
+remove nova /1e-11/
+remove oother /1e-13/
+remove orphea /1e-13/
+remove probius /1e-14/
+remove qhira /1e-12/
+remove ragnaros /1e-15/
+remove raynor /1e-13/
+remove rehgar /1e-13/
+remove rexxar /1e-13/
+remove rogue /1e-12/
+remove sagara /1e-13/
+remove sonya /1e-12/
+remove stitches /1e-15/
+remove stukov /1e-13/
+remove sylvanas /1e-15/
+remove tassadar /1e-15/
+remove thrall /1e-13/
+remove tracer /1e-13/
+remove tychus /1e-13/
+remove tyrael /1e-13/
+remove tyrande /1e-14/
+remove valla /1e-12/
+remove varian /1e-13/
+remove vikings /1e-14/
+remove whitemane /1e-16/
+remove yrel /1e-11/
+remove zarya /1e-12/
+remove zeratool /1e-15/
+remove zooljin /1e-14/
+reset a noob /1e-12/
+reset abathur /1e-13/
+reset alarak /1e-12/
+reset alexstrasza /1e-17/
+reset ana /1e-9/
+reset anduin /1e-12/
+reset artanis /1e-13/
+reset arthas /1e-12/
+reset auriel /1e-12/
+reset azmodan /1e-13/
+reset blade master /1e-18/
+reset blaze /1e-11/
+reset brightwing /1e-16/
+reset butcher /1e-13/
+reset cassia /1e-12/
+reset chen /1e-10/
+reset cho /1e-9/
+reset chromie /1e-13/
+reset deckard /1e-13/
+reset dehaka /1e-12/
+reset diablo /1e-12/
+reset diva /1e-10/
+reset dragoon /1e-13/
+reset e.t.c /1e-11/
+reset everything /1e-16/
+reset falstad /1e-13/
+reset gall /1e-10/
+reset garrosh /1e-13/
+reset genji /1e-11/
+reset goblin /1e-12/
+reset gooldan /1e-13/
+reset greymane /1e-14/
+reset hammer /1e-12/
+reset hanzo /1e-11/
+reset illidan /1e-13/
+reset imperius /1e-14/
+reset jaina /1e-11/
+reset johanna /1e-13/
+reset junkrat /1e-13/
+reset kaelthas /1e-14/
+reset kelthuzad /1e-15/
+reset kerrigan /1e-14/
+reset kharazim /1e-14/
+reset leoric /1e-12/
+reset li li /1e-11/
+reset li ming /1e-13/
+reset lucio /1e-11/
+reset lunara /1e-12/
+reset maiev /1e-11/
+reset malfurion /1e-15/
+reset malganis /1e-14/
+reset malthael /1e-14/
+reset medivh /1e-12/
+reset mephisto /1e-14/
+reset morales /1e-13/
+reset muradin /1e-13/
+reset murky /1e-11/
+reset nazeebo /1e-13/
+reset necro /1e-11/
+reset nova /1e-10/
+reset oother /1e-12/
+reset orphea /1e-12/
+reset probius /1e-13/
+reset qhira /1e-11/
+reset ragnaros /1e-14/
+reset raynor /1e-12/
+reset rehgar /1e-12/
+reset rexxar /1e-12/
+reset rogue /1e-11/
+reset sagara /1e-12/
+reset sonya /1e-11/
+reset stitches /1e-14/
+reset stukov /1e-12/
+reset sylvanas /1e-14/
+reset tassadar /1e-14/
+reset thrall /1e-12/
+reset tracer /1e-12/
+reset tychus /1e-12/
+reset tyrael /1e-12/
+reset tyrande /1e-13/
+reset valla /1e-11/
+reset varian /1e-12/
+reset vikings /1e-13/
+reset whitemane /1e-15/
+reset yrel /1e-10/
+reset zarya /1e-11/
+reset zeratool /1e-14/
+reset zooljin /1e-13/
+time warp /1e-9/
